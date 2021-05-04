@@ -6,5 +6,5 @@ SQL - Tableau Data Analysis and Data Visualization of Philadelphia, Pennsylvania
 + Tableau Public
 
 ### Live Demo
-+ [view Project Details on Tableau Public](https://public.tableau.com/profile/matthew.snell1329#!/vizhome/PhiladelphiaPedestrianFatalities/PhiladelphiasFatalPedestrianCrashes2017-2019)
++ [View the Tableau Public Dashboard](https://public.tableau.com/profile/matthew.snell1329#!/vizhome/PhiladelphiaPedestrianFatalities/PhiladelphiasFatalPedestrianCrashes2017-2019)
 
