@@ -1,4 +1,4 @@
-# Philadelphia's Fatal Pedestrian Crash Analysis in SQL & Tableau
+# Philadelphia's Fatal Pedestrian Crashes Analysis in SQL & Tableau
 Data Analysis and Data Visualization of Philadelphia, Pennsylvania's fatal pedestrian crashes from 2017 - 2019. 
 
 ### Database and Data Visualization Tools
