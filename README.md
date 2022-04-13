@@ -1,5 +1,5 @@
 <h1 align="center">Analysis of Philadelphia Motor Vehicle Collisions</h1>
-### Data Analysis and Visualization of Philadelphia, Pennsylvania's motor vehicle collisions from 2015 through 2020
+## Data Analysis and Visualization of Philadelphia, Pennsylvania's motor vehicle collisions from 2015 through 2020
 
 #### Data Analysis & Visualization Tools
 + Python
