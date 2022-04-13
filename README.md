@@ -1,8 +1,9 @@
-# Philadelphia's Fatal Pedestrian Crashes Analysis in SQL & Tableau
-Data Analysis and Data Visualization of Philadelphia, Pennsylvania's fatal pedestrian crashes from 2017 - 2019
+# Philadelphia Motor Vehicle Collision Analysis 2015 - 2020 
+Data Analysis and Data Visualization of Philadelphia, Pennsylvania's motor vehicle collisions from 2015 - 2020
 
 ### Data Analysis & Visualization Tools
-+ Postgresql
++ Python
++ SQL
 + Tableau Public
 + Microsoft Excel
 
