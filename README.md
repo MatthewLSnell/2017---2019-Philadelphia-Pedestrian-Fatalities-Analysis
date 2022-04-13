@@ -11,7 +11,7 @@ Data Analysis and Visualization of Philadelphia, Pennsylvania's motor vehicle co
 
 + First, I utilized Python to perform reverse geocoding to extract location data using the Nominatim geocoding service.
 + Next, I imported the data into Postgresql and executed SQL queries to analyze the data.
-+ I created an interactive Tableau to visualize and share my insights. 
++ I created an interactive Tableau dashboard to visualize and share my insights. 
 
 
 
