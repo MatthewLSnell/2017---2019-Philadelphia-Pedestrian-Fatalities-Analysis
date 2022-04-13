@@ -7,7 +7,7 @@ Data Analysis and Visualization of Philadelphia, Pennsylvania's motor vehicle co
 + Tableau Public
 + Microsoft Excel
 
-### For this project, I analyzed crash data from Pennsylvania's Department of Transportation and created an interactive Tableau dashboard to share my insights.  
+#### For this project, I analyzed crash data from Pennsylvania's Department of Transportation and created an interactive Tableau dashboard to share my insights.  
 
 + First, I utilized Python to perform reverse geocoding to extract location data using the Nominatim geocoding service.
 + Next, I imported the data into Postgresql and executed SQL queries to analyze the data.
