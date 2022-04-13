@@ -7,7 +7,9 @@ Data Analysis and Visualization of Philadelphia, Pennsylvania's motor vehicle co
 + Tableau Public
 + Microsoft Excel
 
-I 
+In this project, I analyzed crash data from Pennsylvania's Department of Transportation and created an interactive Tableau dashboard to share my insights.  
+
+
 
 + [View the Tableau Public Dashboard](https://public.tableau.com/profile/matthew.snell1329#!/vizhome/PhiladelphiaPedestrianFatalities/PhiladelphiasFatalPedestrianCrashes2017-2019)
 
