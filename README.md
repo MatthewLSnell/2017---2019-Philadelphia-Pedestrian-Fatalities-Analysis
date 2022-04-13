@@ -1,4 +1,4 @@
-<h1align="center"><Philadelphia Motor Vehicle Collision Analysis 2015 through 2020></h1>
+<h1 align="center"><Philadelphia Motor Vehicle Collision Analysis 2015 through 2020></h1>
 ### Data Analysis and Data Visualization of Philadelphia, Pennsylvania's motor vehicle collisions from 2015 through 2020
 
 #### Data Analysis & Visualization Tools
