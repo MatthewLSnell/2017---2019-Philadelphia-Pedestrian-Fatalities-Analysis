@@ -1,9 +1,5 @@
 ![Dashboard on Tableau Public](https://github.com/MatthewLSnell/Philadelphia-Pedestrian-Fatalities-Analysis-in-SQL-Tableau/blob/main/Case%20Study%20Analysis%20of%20Philadelphia's%20Motor%20Vehicle%20Collisions%20Cover.png)
 
-
-<h1 align="center">Analysis of Philadelphia's Motor Vehicle Collisions</h1>
-Data Analysis and Visualization of Philadelphia, Pennsylvania's motor vehicle collisions from 2015 through 2020
-
 #### Data Analysis & Visualization Tools
 + Python
 + SQL
