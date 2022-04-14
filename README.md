@@ -17,6 +17,6 @@ Data Analysis and Visualization of Philadelphia, Pennsylvania's motor vehicle co
 
 + [View the Tableau Public Dashboard](https://public.tableau.com/profile/matthew.snell1329#!/vizhome/PhiladelphiaPedestrianFatalities/PhiladelphiasFatalPedestrianCrashes2017-2019)
 
-![Dashboard on Tableau Public](https://github.com/MatthewLSnell/2017---2019-Philadelphia-Pedestrian-Fatalities-Analysis/blob/main/Philadelphia%20Pedestrian%20Traffic%20Fatality%20Dashboard%20Cover.PNG)
+![Dashboard on Tableau Public](https://github.com/MatthewLSnell/Philadelphia-Pedestrian-Fatalities-Analysis-in-SQL-Tableau/blob/main/Case%20Study%20Analysis%20of%20Philadelphia's%20Motor%20Vehicle%20Collisions%20Cover.png)
 
 
