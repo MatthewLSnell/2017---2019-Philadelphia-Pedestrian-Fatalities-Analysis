@@ -18,7 +18,7 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 ![Tableau Collision Prone Areas](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Images/Philadelphia%20Motor%20Vehicle%20Collisions%20Dashboard%20Tableau%20Collisions%20Prone%20Areas.png)
 
-![Tableau Fatality Analysis](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Images/Philadelphia%20Motor%20Vehicle%20Collisions%20Dashboard%20Tableau%20Collisions%20Prone%20Areas.png)
+![Tableau Fatality Analysis](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Images/Philadelphia%20Motor%20Vehicle%20Collisions%20Dashboard%20Tableau%20Fatality%20Analysis.png)
 
 # Explore Notebook
 
