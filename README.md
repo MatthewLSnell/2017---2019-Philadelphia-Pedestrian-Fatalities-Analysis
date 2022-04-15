@@ -2,6 +2,8 @@
 
 # Task
 
+For this project, I was interested in identifying the causes of motor vehicle collisions in Philadelphia, Pennsylvania
+
 #### Data Analysis & Visualization Tools
 + Python
 + SQL
