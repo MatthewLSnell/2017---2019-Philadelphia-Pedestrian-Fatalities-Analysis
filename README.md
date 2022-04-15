@@ -12,7 +12,7 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 [Philadelphia Motor Vehicle Collisions Dashboard](https://public.tableau.com/app/profile/matthew.snell1329/viz/PhiladelphiaMotorVehicleCollisionsDashboard/PHLMVADashboard-Summary)
 
-!(https://github.com/MatthewLSnell/Philadelphia-Pedestrian-Fatalities-Analysis-in-SQL-Tableau/blob/main/Images/Philadelphia%20Motor%20Vehicle%20Collisions%20Dashboard%20Tableau%20Cover.png)
+![Tableau Dashboard Cover](https://github.com/MatthewLSnell/Philadelphia-Pedestrian-Fatalities-Analysis-in-SQL-Tableau/blob/main/Images/Philadelphia%20Motor%20Vehicle%20Collisions%20Dashboard%20Tableau%20Cover.png)
 
 
 
