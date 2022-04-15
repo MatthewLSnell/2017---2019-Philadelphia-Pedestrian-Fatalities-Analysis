@@ -1,6 +1,6 @@
 ![Dashboard on Tableau Public](https://github.com/MatthewLSnell/Philadelphia-Pedestrian-Fatalities-Analysis-in-SQL-Tableau/blob/main/Case%20Study%20Analysis%20of%20Philadelphia's%20Motor%20Vehicle%20Collisions%20Cover.png)
 
-# Task
+# Background
 
 For this project, I was interested in identifying the causes of motor vehicle collisions in Philadelphia, Pennsylvania
 
