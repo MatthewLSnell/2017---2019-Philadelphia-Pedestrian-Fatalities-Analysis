@@ -2,7 +2,11 @@
 
 # Background
 
-For this case study, I was tasked with analyzing motor vehicle collisions in Philadelphia, PA from January 2015 - December 2020 and provide recommendations on how to reduce the occurrence of motor vehicle collisions within Philadelphia. The dataset may be found [here](https://pennshare.maps.arcgis.com/apps/webappviewer/index.html?id=8fdbf046e36e41649bbfd9d7dd7c7e7e).
+For this case study, I was tasked with analyzing motor vehicle collisions in Philadelphia, PA from January 2015 - December 2020 and provide recommendations on how to reduce the occurrence of motor vehicle collisions within Philadelphia. 
+
+# Data Source
+
+The dataset is comprised of 67,333 reportable crash incidents and may be found [here](https://pennshare.maps.arcgis.com/apps/webappviewer/index.html?id=8fdbf046e36e41649bbfd9d7dd7c7e7e).
 
 #### Data Analysis & Visualization Tools
 + Python
