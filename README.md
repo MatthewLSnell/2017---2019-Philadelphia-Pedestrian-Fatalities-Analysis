@@ -16,7 +16,7 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 # Explore Notebook
 
-[Jupyter Notebook](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Crash%20Data%20Analysis.ipynb)
+[Jupyter Notebook](https://nbviewer.org/github/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Crash%20Data%20Analysis.ipynb)
 
 
 
