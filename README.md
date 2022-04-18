@@ -50,7 +50,7 @@ After cleaning the dataset in Python, I imported the data into Postgresql and be
 
 ![Deaths Per Day of Week, Time of Day](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Images/Deaths%20Per%20Day%20of%20Week%2C%20Time%20of%20Day.PNG)
 
-**Collision Prone Areas:** Since 2015, Zip Code 19114 has had 1,501 motor vehicle collisions and 29 deaths with average rate of 20.22 deaths per 1,000 collisions.  This part of Philadelphia contains a portion of Roosevelt Boulevard, which is one of the [dangerous road in Philadelphia](https://billypenn.com/2017/02/06/how-roosevelt-boulevard-became-the-most-dangerous-road-in-philadelphia/)
+**Collision Prone Areas:** Since 2015, Zip Code 19114 has had 1,501 motor vehicle collisions and 29 deaths with average rate of 20.22 deaths per 1,000 collisions.  This part of Philadelphia contains a portion of Roosevelt Boulevard, which is considered the [deadliest road in Philadelphia](https://billypenn.com/2017/02/06/how-roosevelt-boulevard-became-the-most-dangerous-road-in-philadelphia/)
 
 **Deaths Per 1,000 Collisions**
 
