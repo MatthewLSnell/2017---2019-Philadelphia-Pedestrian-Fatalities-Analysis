@@ -34,8 +34,9 @@ After cleaning the dataset in Python, I imported the data into Postgresql and be
 
 [SQL Queries](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/tree/main/SQL%20Queries)
 
+# Insights
 
-
+* Deaths by Collision Type: My analysis revealed that collisions involving pedestrians were the deadliest type of motor vehicle collision.  Since 2015, pedestrians accounted for 34.9% of traffic related deaths in Philadelphia. 
 
 
 
