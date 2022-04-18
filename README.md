@@ -44,6 +44,8 @@ After cleaning the dataset in Python, I imported the data into Postgresql and be
 
 **Collisions Per Day of Week, Time of Day**
 
+![Collisions Per Day of Week, Time of Day](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Images/Collisions%20Per%20Time%20of%20Week%2C%20Time%20of%20Day.PNG)
+
 
 
 
