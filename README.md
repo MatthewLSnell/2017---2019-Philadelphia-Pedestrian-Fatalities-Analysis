@@ -28,6 +28,8 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 * I cleaned and transformed the dataset by selecting features that were relevant to my analysis and assigning the appropriate data type to each feature.
 * I used the Openstreet Nominatim API to reverse geocode the dataset to extract a zip code from the latitude and longitude data. 
 
+# SQL Queries
+
 
 
 
