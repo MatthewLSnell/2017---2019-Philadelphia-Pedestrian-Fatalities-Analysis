@@ -20,7 +20,7 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 ![Tableau Fatality Analysis](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Images/Philadelphia%20Motor%20Vehicle%20Collisions%20Dashboard%20Tableau%20Fatality%20Analysis.png)
 
-# Explore Notebook
+# Explore the Jupyter Notebook
 
 [Jupyter Notebook](https://nbviewer.org/github/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Crash%20Data%20Analysis.ipynb)
 
