@@ -30,6 +30,9 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 # SQL Queries
 
+After cleaning the dataset in Python, I imported the data into Postgresql and began to query the data. 
+
+
 
 
 
