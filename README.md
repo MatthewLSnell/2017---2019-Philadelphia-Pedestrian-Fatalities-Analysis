@@ -24,6 +24,10 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 [Jupyter Notebook](https://nbviewer.org/github/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Crash%20Data%20Analysis.ipynb)
 
+* I utilized Python to concat the individual data sources into one large dataset.
+* I cleaned and transformed the dataset by selecting features that were relevant to my analysis.
+* I used the Openstreet Nominatim API to reverse geocode the data to extract a zip code from the latitude and longitude data. 
+
 
 
 
