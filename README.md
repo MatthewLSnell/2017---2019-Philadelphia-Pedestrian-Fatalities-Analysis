@@ -32,6 +32,8 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 After cleaning the dataset in Python, I imported the data into Postgresql and began to query the data. 
 
+[SQL Queries](https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/tree/main/SQL%20Queries)
+
 
 
 
