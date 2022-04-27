@@ -29,7 +29,7 @@ The dataset is comprised of 67,333 reportable crash incidents and may be accesse
 
 * I utilized Python to concatenate the individual annual crash datasets into one large dataset that contains all of the crash data from 2015 through 2020.
 * I cleaned and transformed the dataset by selecting features that were relevant to my analysis and assigned the appropriate data type to each feature.
-* I used the Openstreet Nominatim API to reverse geocode the dataset to extract a zip code from the latitude and longitude data. 
+* I used the Openstreet Nominatim API to reverse geocode the dataset to extract zip codes from the latitude and longitude data. 
 
 # SQL Queries
 
