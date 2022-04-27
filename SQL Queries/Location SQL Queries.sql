@@ -1,10 +1,10 @@
 WITH Deaths_By_Year_Zip AS (
 SELECT
 	crash_year AS "Year"
-	,	Zip AS "Zip Code"
-	,	COUNT(CRASH_REPORT_NUMBER) AS "Collisions"
-	,	SUM(injury_count) AS "Injuries"
-	, 	SUM(fatal_count) AS "Deaths"
+	, Zip AS "Zip Code"
+	, COUNT(CRASH_REPORT_NUMBER) AS "Collisions"
+	, SUM(injury_count) AS "Injuries"
+	, SUM(fatal_count) AS "Deaths"
 FROM
 	crash
 GROUP BY crash_year, Zip
