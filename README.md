@@ -8,6 +8,9 @@ I utilized Python & SQL to analyze motor vehicle collisions in Philadelphia, Pen
 
 The dataset is comprised of 67,333 reportable crash incidents and may be accessed [here](https://pennshare.maps.arcgis.com/apps/webappviewer/index.html?id=8fdbf046e36e41649bbfd9d7dd7c7e7e).
 
+# Case Study Approach
+[Case Study Approach]https://github.com/MatthewLSnell/Case-Study-Analysis-of-Philadelphia-Motor-Vehicle-Collisions/blob/main/Images/Case%20Study%20Approach.png
+
 # Tableau Dashboard
 
 [Philadelphia Motor Vehicle Collisions Dashboard](https://public.tableau.com/app/profile/matthew.snell1329/viz/PhiladelphiaMotorVehicleCollisionsDashboard/PHLMVADashboard-Summary)
