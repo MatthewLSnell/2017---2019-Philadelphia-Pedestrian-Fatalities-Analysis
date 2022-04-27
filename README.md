@@ -2,7 +2,7 @@
 
 # Background
 
-For this case study, I was tasked with analyzing motor vehicle collisions in Philadelphia, PA from January 2015 - December 2020 and provide recommendations on how to reduce the occurrence of motor vehicle collisions within Philadelphia. 
+I utilized Python & SQL to analyze motor vehicle collisions in Philadelphia, Pennsylvania from January 2015 through December 2020 and created a Tableau dashboard to visualize my findings. 
 
 # Data Source
 
